@@ -1,0 +1,53 @@
+{
+    "locations":[
+        {
+        "id": 1,
+        "address": "123 Applebee lane"
+        }
+    ],
+
+    "products":[
+        {
+        "id": 1,
+        "name": "Candy Apple",
+        "type": 2
+        }
+
+    ],
+
+    "employees":[
+        {
+        "id": 1,
+        "name": "Sandy Cooper",
+        "title": "Manager",
+        "email": "sandycooper@gmail.com"
+        }
+    ],
+
+    "productTypes":[
+        {
+        "id": 1,
+        "name": "Hard Candy"
+        },
+        {
+        "id": 2,
+        "name": "Candied Fruit"
+        }
+    ],
+
+    "customers":[
+        {
+        "id": 1,
+        "name": "Susan Smith",
+        "phonenumber": 6151234567
+        }
+    ],
+
+    "purchases":[
+        {
+        "id": 1,
+        "customerId": 1,
+        "productId": 1
+        }
+    ]
+}
