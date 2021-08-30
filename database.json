@@ -2,7 +2,19 @@
     "locations":[
         {
         "id": 1,
-        "address": "123 Applebee lane"
+        "address": "123 Applebee Lane"
+        },
+        {
+         "id": 2,
+        "address": "12 Shoney's Street"
+        },
+        {
+        "id": 3,
+        "address": "728 McDonald Way"
+        },
+        {
+        "id": 4,
+        "address": "1212 Sonic Avenue"
         }
     ],
 
