@@ -21,23 +21,47 @@
     "products":[
         {
         "id": 1,
-        "name": "Candy Apple",
+        "name": "Hubba Bubba",
         "type": 2
         },
         {
-        "id": 1,
-        "name": "Candy Apple",
-        "type": 2
+        "id": 2,
+        "name": "Gummy Worms",
+        "type": 3
         },
         {
-        "id": 1,
-        "name": "Candy Apple",
-        "type": 2
+        "id": 3,
+        "name": "Arcor Strawberry Buds Filled Hard Candy Bon Bons",
+        "type": 1
         },
         {
+        "id": 4,
+        "name": "Caramel Drops",
+        "type": 1
+        },
+        {
+        "id": 5,
+        "name": "Hershey Kisses",
+        "type": 4
+        }
+    ],
+
+    "productTypes":[
+        {
         "id": 1,
-        "name": "Candy Apple",
-        "type": 2
+        "type": "Hard Candy"
+        },
+        {
+        "id": 2,
+        "type": "Gum"
+        },
+        {
+        "id": 3,
+        "type": "Gummy Candy"
+        },
+        {
+        "id": 4,
+        "type": "Chocolate"
         }
     ],
 
@@ -47,17 +71,6 @@
         "name": "Sandy Cooper",
         "title": "Manager",
         "email": "sandycooper@gmail.com"
-        }
-    ],
-
-    "productTypes":[
-        {
-        "id": 1,
-        "name": "Hard Candy"
-        },
-        {
-        "id": 2,
-        "name": "Candied Fruit"
         }
     ],
 
