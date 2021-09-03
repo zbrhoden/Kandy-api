@@ -22,27 +22,32 @@
         {
         "id": 1,
         "name": "Hubba Bubba",
-        "type": 2
+        "type": 2,
+        "price": 1.00
         },
         {
         "id": 2,
         "name": "Gummy Worms",
-        "type": 3
+        "type": 3,
+        "price": 1.00
         },
         {
         "id": 3,
         "name": "Arcor Strawberry Buds Filled Hard Candy Bon Bons",
-        "type": 1
+        "type": 1,
+        "price": 1.00
         },
         {
         "id": 4,
         "name": "Caramel Drops",
-        "type": 1
+        "type": 1,
+        "price": 1.00
         },
         {
         "id": 5,
         "name": "Hershey Kisses",
-        "type": 4
+        "type": 4,
+        "price": 1.00
         }
     ],
 
